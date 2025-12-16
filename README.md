@@ -1,2 +1,1 @@
-# -
-기계학습과 응용 final project
+# 기계학습과 응용 final project
